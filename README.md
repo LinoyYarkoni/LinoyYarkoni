@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linoy</h1>
 
-<h4 align="center" >B.Sc computer Science graduate and a passionate desktop and backend developer (C# .NET)</h4>
+<h4 align="center">A passionate desktop and backend developer</h4>
 
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -12,9 +12,9 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linoyyarkoni&" alt="linoyyarkoni" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linoyyarkoni&" alt="linoyyarkoni" />
 
-![snake gif](https://github.com/LinoyYarkoni/LinoyYarkoni/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/LinoyYarkoni/LinoyYarkoni/blob/output/github-contribution-grid-snake.gif)</p>
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
