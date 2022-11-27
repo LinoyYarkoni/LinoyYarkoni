@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linoy</h1>
 
-<h4 align="center >B.Sc computer Science graduate and a passionate desktop and backend developer (C# .NET)</h4>
+<h4 align="center" >B.Sc computer Science graduate and a passionate desktop and backend developer (C# .NET)</h4>
 
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -14,7 +14,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linoyyarkoni&" alt="linoyyarkoni" /></p>
 
-<p align="center> ![snake gif](https://github.com/LinoyYarkoni/LinoyYarkoni/blob/output/github-contribution-grid-snake.gif) </p>
+<p align="center"> ![snake gif](https://github.com/LinoyYarkoni/LinoyYarkoni/blob/output/github-contribution-grid-snake.gif) </p>
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
