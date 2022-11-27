@@ -1,7 +1,7 @@
   <style type="text/css"> 
   .padded img { 
-    padding-left: 6em; 
-    padding-right: 6em; 
+    padding-left: 50em; 
+    padding-right: 50em; 
   } 
 
 <h1 align="left">Hi 👋, I'm Linoy</h1>
