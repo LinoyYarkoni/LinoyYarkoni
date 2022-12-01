@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linoy</h1>
 
-<h4 align="center">A passionate desktop and backend developer</h4>
+<h3 align="center">A passionate Desktop (WinForms - WPF) and Backend (MongoDB - MS SQL) Developer</h3>
 
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
