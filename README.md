@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate Desktop (WinForms - WPF) and Backend (MongoDB - MS SQL) Developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=A+Passionate+Desktop+(WinForms+-+WPF)+and+Backend+(MongoDB+-+MS+SQL)+Developer)](https://git.io/typing-svg)
-
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
