@@ -1,6 +1,6 @@
 <h1 align="center" style="color:pink">Linoy Yarkoni</h1>
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F771DE&center=true&vCenter=true&width=435&lines=Web+%26+Desktop+Application+Developer" alt="Typing SVG" /></a></p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F771DE&center=true&vCenter=true&width=435&lines=Software+Developer" alt="Typing SVG" /></a></p>
 
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
