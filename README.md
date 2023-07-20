@@ -14,7 +14,7 @@
     
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linoyyarkoni&theme=radical&border_radius=6" alt="linoyyarkoni" /></p>
 
-![snake gif](https://github.com/LinoyYarkoni/LinoyYarkoni/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/LinoyYarkoni/LinoyYarkoni/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
