@@ -11,7 +11,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a></p>
-
+    
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linoyyarkoni&theme=radical&border_radius=6" alt="linoyyarkoni" /></p>
 
 ![snake gif](https://github.com/LinoyYarkoni/LinoyYarkoni/blob/output/github-contribution-grid-snake.gif)
